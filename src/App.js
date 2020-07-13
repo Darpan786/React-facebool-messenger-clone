@@ -48,8 +48,8 @@ function App() {
     <div className="App">
       <img src="https://facebookbrand.com/wp-content/uploads/2018/09/Header-e1538151782912.png?w=90&h=90"></img>
 
-      <h1>Group Chat 🚀 !</h1>
-      <h2>Welcome {username}</h2>
+      <h1 className="h1">गपशप 💁‍♂️ !</h1>
+      <h2 className="h2">Welcome {username}</h2>
       <form className="app__form">
         <FormControl className="app__formControl">
           <InputLabel>Enter a message...</InputLabel>

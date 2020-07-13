@@ -2,16 +2,18 @@
   padding: 10px;
   margin: 10px;
   width: fit-content;
+  border-radius: 10px;
 }
 
 .message__user {
   margin-left: auto;
-  color: white;
+  color: rgb(15, 15, 15);
   text-align: left !important;
+  border-radius: 10px;
 }
 .message__userCard {
-  background-color: blue !important;
+  background-color: rgb(18, 221, 79) !important;
 }
 .message__guestCard {
-  background-color: grey !important;
+  background-color: rgb(128, 128, 128) !important;
 }
